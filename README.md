@@ -8,6 +8,7 @@ Welcome to the AgriData Analysis Toolkit! Your one-stop solution for harnessing 
 * **Contributing**
 * **Contact**
 
+
 ### <ins>Features</ins> 🚀
 ***1. Data Import:*** Easily import your agricultural data from various sources, including CSV, Excel, and databases.
 
@@ -25,13 +26,13 @@ Welcome to the AgriData Analysis Toolkit! Your one-stop solution for harnessing 
 
 ***8. Community-Driven:*** Continuously improved and expanded by a vibrant community of agriculture and data enthusiasts.
 
+
 ### <ins>Getting Started</ins> 🌱
 To get started with the AgriData Analysis Toolkit, follow these simple steps:
 
 ***1. Clone the Repository:***
-
 ```
-git clone https://github.com/your-username/agri-data-toolkit.git
+git clone https://github.com/Minidoughnut/AgTech.git
 cd agri-data-toolkit
 ```
 
