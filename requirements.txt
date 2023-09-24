@@ -1,0 +1,22 @@
+# AgriData Analysis Python Scripts Requirements
+
+# Data Analysis Libraries
+pandas==1.3.3                # Data manipulation and analysis
+numpy==1.21.2                # Numerical computing
+matplotlib==3.4.3            # Data visualization
+seaborn==0.11.2              # Statistical data visualization
+scipy==1.7.3                 # Scientific computing and statistics
+
+# Machine Learning Libraries (if applicable)
+scikit-learn==0.24.2         # Machine learning toolkit
+xgboost==1.4.2               # Gradient boosting framework
+lightgbm==3.2.1              # Light Gradient Boosting Machine
+tensorflow==2.5.0            # Deep learning library
+
+# Jupyter Notebook (for running Jupyter notebooks)
+jupyter==1.0.0
+
+# Additional Libraries (if used)
+requests==2.26.0             # HTTP library for data retrieval
+beautifulsoup4==4.10.0       # Web scraping library
+plotly==5.3.1                # Interactive plotting library
