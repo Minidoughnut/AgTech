@@ -33,7 +33,7 @@ To get started with the AgriData Analysis Toolkit, follow these simple steps:
 ***1. Clone the Repository:***
 ```
 git clone https://github.com/Minidoughnut/AgTech.git
-cd agri-data-toolkit
+cd AgTech
 ```
 
 ***2. Install Dependencies:***
