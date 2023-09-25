@@ -77,7 +77,8 @@ git push origin feature/your-feature
 ***5. Create a pull request:***
 
 ### <ins>Contact</ins> 📧
-If you have any questions, feedback, or would like to discuss potential opportunities, feel free to reach out to me at olakunle@gmail.com.
+If you have any questions, feedback, or would like to discuss potential opportunities, feel free to reach out to me at olakunle.solutions@gmail.com. [Linkedln profile](https://www.linkedin.com/in/ola4devops/) 
+
 
 Thank you for exploring my AgriData Analysis Python Scripts repository. I look forward to connecting with you!
 
