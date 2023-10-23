@@ -26,3 +26,8 @@ A snapshot of raw yield data for Manitoba.
  ![image](https://github.com/Minidoughnut/AgTech/assets/104665188/2a17482e-b763-43e4-81fc-589b570a25be)
 
 A snapshot of standardized and merged yield data for Saskatchewan and Manitoba.
+
+## Exploratory Data Analysis (EDA)
+Initial data visualization using a bar chart on the dataset, revealed the presence of a substantial 95,891 missing values. To make the dataset more relevant and focused, we narrowed our analysis to the past decade, spanning from 2002 to 2022. This reduced the count of missing values to 19,060, offering a more current and representative dataset for our investigation.
+Subsequently, these null values were thoughtfully and systematically removed.  This rigorous data preprocessing step allowed us to sharpen our focus on the essential trends, patterns, and relationships that emerged during our analysis, ensuring that our findings are rooted in robust and up-to-date information
+
