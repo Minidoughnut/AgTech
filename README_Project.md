@@ -22,10 +22,10 @@ A snapshot of raw yield data for Saskatchewan
 A snapshot of raw yield data for Manitoba.
  
 ### Transformed Data:
- ![image](https://github.com/Minidoughnut/AgTech/assets/104665188/ffd9784c-3902-4331-b9f6-5ba72037b2f4)
- ![image](https://github.com/Minidoughnut/AgTech/assets/104665188/2a17482e-b763-43e4-81fc-589b570a25be)
+ ![image](https://github.com/Minidoughnut/AgTech/assets/104665188/bb265180-1576-4561-b32c-295f35fb8725)
 
-A snapshot of standardized and merged yield data for Saskatchewan and Manitoba.
+
+A snapshot of processed and merged yield data for Saskatchewan and Manitoba.
 
 ## Exploratory Data Analysis (EDA)
 Initial data visualization using a bar chart on the dataset revealed the presence of a substantial 95,891 missing values. To make the dataset more relevant and focused, we narrowed our analysis to the past decade, spanning from 2002 to 2022. This reduced the count of missing values to 19,060, offering a more current and representative dataset for our investigation.
