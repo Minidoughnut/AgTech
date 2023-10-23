@@ -16,9 +16,11 @@ Using Python and the necessary libraries, several critical preprocessing steps w
 Here's a glimpse of the data and some preliminary visualizations to provide insight into our dataset:
 ### Raw Yield Data:
 ![image](https://github.com/Minidoughnut/AgTech/assets/104665188/ce1b2b01-ea15-46ed-8d7a-353bd1f560b8)
+
 A snapshot of raw yield data for Saskatchewan
 
- ![image](https://github.com/Minidoughnut/AgTech/assets/104665188/61743d43-e2e5-424d-a900-bcb1480e7b27)
+![image](https://github.com/Minidoughnut/AgTech/assets/104665188/61743d43-e2e5-424d-a900-bcb1480e7b27)
+
 A snapshot of raw yield data for Manitoba.
  
 ### Transformed Data:
@@ -32,8 +34,7 @@ Initial data visualization using a bar chart on the dataset revealed the presenc
 Subsequently, these null values were thoughtfully and systematically removed.  This rigorous data preprocessing step allowed us to sharpen our focus on the essential trends, patterns, and relationships that emerged during our analysis, ensuring that our findings are rooted in robust and up-to-date information.
 
 ![image](https://github.com/Minidoughnut/AgTech/assets/104665188/d7e1f123-060a-4f04-a21f-9ba58874d93d)
-
-![image](https://github.com/Minidoughnut/AgTech/assets/104665188/3ca91dc8-da99-4896-a1fb-91f0abab4230)
+![image](https://github.com/Minidoughnut/AgTech/assets/104665188/979ee903-1e7d-4c02-908a-6d97b468332b)
 
 
 
